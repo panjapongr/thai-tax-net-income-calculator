@@ -1,0 +1,38 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+README.md
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Output/Build
+dist/
+build/
+out/
+
+# Environment variables / Secrets
+.env
+.env.local
+.env.production
+.env.*
+*.pem
+*.key
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store

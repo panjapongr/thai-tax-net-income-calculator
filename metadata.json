@@ -1,0 +1,6 @@
+{
+  "name": "Thai Tax & Net Income Calculator",
+  "description": "Calculate personal income tax, mandatory deductions (Social Security, standard expenses), provident fund, and net take-home salary for Thailand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
